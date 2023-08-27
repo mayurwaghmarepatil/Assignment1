@@ -1,0 +1,48 @@
+﻿PROBABILITY
+
+
+1. Two cards are drawn at random from a pack of cards. The probability that both are queens or diamonds is:
+Ans:-c.13/221    
+
+2.  From a bag containing 6 pink and 8 orange balls, 8 balls are drawn at random. The probability that 5 of them are pink and the rest are orange is
+Ans:-a.16/143    
+
+3.  From a box containing a dozen bulbs, of which exactly one half are good, and four bulbs are chosen at random to fit into the four bulb holders in a room. The probability that the room gets lighted is
+Ans:-d. 32/33
+
+4.  If 10 letters are to be placed in 10 addressed envelopes, then what is the probability that at least one letter is placed in wrong addressed envelope?
+Ans:-b.1/9!     
+
+5.  I select three numbers randomly from 1 to 10. What is the probability that their product is an odd number?
+Ans:-c.3/4
+	
+6.  Ramesh has a garments shop. He currently has 6 black, 4 red, 2 white and 3 blue shirts of same size in the stock. He picks 2 shirts randomly for the display. What is the probability that either both shirts are white or blue?
+Ans:-a.1/105
+	
+7. There are 6 oranges, 2 pink, 4 yellow and 3 green towels in a carton. What is the probability of picking up 2 orange towels randomly?
+Ans:-b.2/15
+
+8. In a bag are 10 red balls and 16 green balls. If two balls are drawn one after the other without replacement, what is the probability that the first is "red" while the second one is "green"?
+Ans:-c.16/65
+	
+9. One card is drawn at random from a pack of 52 cards. What is the probability that the card drawn is a face card (Jack, Queen and King only)?
+Ans:-A.3/13
+
+10. X attempts 94 questions and gets 141 marks. If for every correct answer 4 marks is given, and for every wrong answer 1 mark is deducted, then the number of questions wrongly answered by X is __.
+Ans:-A.45
+
+11. Find the probability of selecting 2 woman when four persons are choosen at random from a group of 3 men, 2 woman and 4 children.
+Ans:-A. 1/5
+
+12. What is the probability that it is either a heart card or diamond card, when a card is drawn from a well shuffled standard pack of 52 playing cards?
+Ans:-B.3/4
+
+13. In a single throw with 2 dices, what is probability of neither getting an even number on one and nor a multiple of 3 on other?
+Ans:-A.11/36
+
+14. Let K and L be events on the same sample space, with P (K) = 0.8 and P (B) = 0.6. Are these two events being disjoint?
+Ans:-A. True
+
+15. Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 4 or 15?
+Ans:-C. 7/10
+
